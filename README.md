@@ -2,7 +2,7 @@
 
 I am building a Finance Tracker. It is being used by person to keep track of its personal expenses, and see this more visualizing graphs.
 
-## Technology Usesd
+## Technology Used
 
 - NextJS
 - D3
